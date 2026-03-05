@@ -15,11 +15,6 @@ This project accurately identifies **Early Blight**, **Late Blight**, and **Heal
 
 🔗 **DOI (Official Publication):** https://doi.org/10.1109/AMICT65811.2025.11402659
 
-<p align="center">
-  <img src="1766487829015.jpg" width="750">
-</p>
-📁 Paper available in repository  
-
 ---
 
 ## 🚀 Features
@@ -96,10 +91,10 @@ Total images: **900**
 | F1-Score | 0.97 |
 
 <p align="center">
-  <img src="Fold 1/Acc 1.png" width="320"/>
-  <img src="Fold 1/Loss 1.png" width="320"/><br>
-  <img src="Fold 1/Cnf 1.png" width="320"/>
-  <img src="Fold 1/Roc 1.png" width="320"/>
+  <img src="Acc 1.png" width="320"/>
+  <img src="Loss 1.png" width="320"/><br>
+  <img src="Cnf 1.png" width="320"/>
+  <img src="Roc 1.png" width="320"/>
 </p>
 
 ---
